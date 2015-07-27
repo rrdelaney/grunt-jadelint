@@ -1,0 +1,22 @@
+{
+  "name": "grunt-jadelint",
+  "version": "0.0.0",
+  "description": "A grunt task for Jadelint",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rrdelaney/grunt-jadelint.git"
+  },
+  "keywords": [
+    "jadelint"
+  ],
+  "author": "Ryan Delaney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rrdelaney/grunt-jadelint/issues"
+  },
+  "homepage": "https://github.com/rrdelaney/grunt-jadelint"
+}
