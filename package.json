@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rrdelaney/grunt-jadelint/issues"
   },
-  "homepage": "https://github.com/rrdelaney/grunt-jadelint"
+  "homepage": "https://github.com/rrdelaney/grunt-jadelint",
+  "dependencies": {
+    "lodash": "^3.10.0"
+  }
 }
