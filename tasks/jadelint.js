@@ -21,8 +21,9 @@ module.exports = function(grunt) {
                     success = false;
                 }
 
-                if (error.level !== 'ignore') {
+                if (error.level && error.level !== 'ignore') {
                     grunt.log.error(error.filename + ':' + error.line + '\n    ' + error.name);
+                    console.log();
                 }
             });
         });
