@@ -1,5 +1,5 @@
 var _ = require('lodash');
-var jadelint = require('jadelint');
+var jadelint = require('jadelint/Linter');
 
 module.exports = function(grunt) {
     grunt.registerMultiTask('jadelint', 'Validate Jade code', function() {

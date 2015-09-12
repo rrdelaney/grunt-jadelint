@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/rrdelaney/grunt-jadelint",
   "dependencies": {
-    "jadelint": "^0.2.6",
+    "jadelint": "^0.3.0",
     "lodash": "^3.10.0"
   }
 }
